@@ -1,13 +1,13 @@
 ```kotlin
-        listOf(
-            "👶 Dad",
-            "🤖 Android Tech Lead",
-            "📱 Mobile Engineer",
-            "🕹 Gamer",
-            "🖥 PC Enthusiast",
-            "😎 just a nice guy"
-        )
-            .apply {
-                println("about me: $this")
-            }
+listOf(
+  "👶 Dad",
+  "📱 Mobile Engineer",
+  "🤖 Android Tech Lead",
+  "🕹 Gamer",
+  "🖥 PC Enthusiast",
+  "😎 just a nice guy"
+)
+  .apply {
+    println("about me: $this")
+}
 ```
